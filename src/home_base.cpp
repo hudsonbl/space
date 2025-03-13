@@ -244,10 +244,6 @@ void HomeBase::serviceMiningSiteArrivals() {
     }
 }
 
-std::vector<MiningTruck>& HomeBase::getMiningTrucks() {
-    return miningTrucks;
-}
-
 // =====================================================================================
 
 void HomeBase::evaluateTruckOperations() {
