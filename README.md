@@ -2,7 +2,7 @@
 I ran my code within a Docker container. All of the necessary configuration
 is included within the Dockerfile. To build and run, do the following.
 
-NOTE: Output of a simulation run may be found in simulation_output.txt
+**NOTE:** Output of a simulation run may be found in simulation_output.txt. View the bottom of the file for metrics.
 
 1. Build and enter Docker container:
 ```bash
