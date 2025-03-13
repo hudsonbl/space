@@ -26,5 +26,6 @@ make
 
 3. Run tests
 ```bash
+# Ensure you are in the build directory.
 ctest
 ```
