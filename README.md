@@ -2,6 +2,8 @@
 I ran my code within a Docker container. All of the necessary configuration
 is included within the Dockerfile. To build and run, do the following.
 
+NOTE: Output of a simulation run may be found in simulation_output.txt
+
 1. Build and enter Docker container:
 ```bash
 docker build -t vast .
