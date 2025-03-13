@@ -12,10 +12,10 @@
 #define HOME_BASE_HPP
 
 #include <iostream>
-#include <vector>
+#include <optional>
 #include <string>
 #include <tuple>
-#include <optional>
+#include <vector>
 #include "mining_truck.hpp"
 #include "mining_unload_station.hpp"
 

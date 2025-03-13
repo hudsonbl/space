@@ -9,8 +9,8 @@
 #define MINING_TRUCK_HPP
 
 #include <iostream>
-#include <string>
 #include <random>
+#include <string>
 #include "mining_truck_metrics.hpp"
 
 
