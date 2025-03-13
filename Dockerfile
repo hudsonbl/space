@@ -14,5 +14,3 @@ RUN git config --global --add safe.directory /app/build/_deps/catch2-src
 COPY . /app
 
 WORKDIR /app/build
-
-#CMD ["./hello"] #remove the CMD, since we will run interactively. 
