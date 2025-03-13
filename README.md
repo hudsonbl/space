@@ -10,17 +10,17 @@ docker run -it -v "$(pwd):/app" vast /bin/bash
 
 2. Run main binary
 ```bash
-// Ensure you are in the build directory.
+# Ensure you are in the build directory.
 cd build
 
-// Run cmake and make.
+# Run cmake and make.
 cmake ..
 make
 
-// Execute binary.
+# Execute binary.
 ./main
 
-// To run with flags
+# To run with flags
 ./main --numTrucks 7 --numStations 2
 ```
 
